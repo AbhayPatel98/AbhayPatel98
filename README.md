@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Abhay Patel 👋
 
-<!--
-**AbhayPatel98/AbhayPatel98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Blockchain Security Researcher | Smart Contract Auditor  | Cybersecurity (IAM, IR, SaaS) 
+🎓 MSc Cybersecurity (UK)  
+📍 Scotland, United Kingdom  
 
-Here are some ideas to get you started:
+I specialise in reviewing, testing, and securing Solidity-based smart contracts.
+Currently expanding into Cloud & SaaS Security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+### Blockchain Security
+- Smart Contract Auditing
+- Vulnerability Analysis
+- DeFi Protocol Review
+- Gas Optimisation
+- Foundry / Hardhat
+
+### Cybersecurity
+- Incident Response
+- SIEM & Log Analysis
+- Linux Security
+- Threat Modelling
+
+### Languages
+- Solidity
+- Python
+- JavaScript
+- Bash
+
