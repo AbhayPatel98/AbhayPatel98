@@ -22,7 +22,7 @@ Currently expanding into Cloud & SaaS Security.
 🛡️ Linux Security
 🧰 Threat Modelling 
 
-✅ Audited multiple smart contracts for DeFi protocols (links available on request)
+### Audited multiple smart contracts for DeFi protocols (links available on request)
 🛡️ Contributed to open-source tools and security libraries for Ethereum
 
 ### Languages
