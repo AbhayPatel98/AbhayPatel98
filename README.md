@@ -1,39 +1,40 @@
 # Hi, I'm Abhay Patel 👋
 
-🔐 Blockchain Security Researcher | Smart Contract Auditor  | Cybersecurity (IAM, IR, SaaS) 
-🎓 MSc Cybersecurity (UK)  
-📍 Scotland, United Kingdom  
+**Smart Contract Security Researcher** · Edinburgh, Scotland
 
-I specialise in reviewing, testing, and securing Solidity-based smart contracts.
-Currently expanding into Cloud & SaaS Security.
+I review Solidity for a living. Around three years of it — 180+ codebases across Ethereum and Layer-2 on private audit engagements, mostly manual line-by-line analysis backed by Foundry fuzzing, invariant tests and proof-of-concept exploits.
 
-## 🛠️ Technical Skills
+Currently a DLT/Blockchain researcher at Edinburgh Napier University's Digital Trust Centre of Excellence, working on wallet, key management and permissioned ledger security.
 
-### Blockchain Security
-🔍 Smart Contract Auditing
-🔐 Vulnerability Analysis
-🛡️ DeFi Protocol Review
-🧰 Gas Optimisation
-🔥 Foundry / Hardhat
+---
 
-### Cybersecurity
-🔍 Incident Response
-🔥 SIEM & Log Analysis
-🛡️ Linux Security
-🧰 Threat Modelling 
+More in [Smart-Contract-Audit-Reports](https://github.com/AbhayPatel98/Smart-Contract-Audit-Reports) — practice reviews I publish so my work is checkable. Paid audit work has been private client work under contract, so it isn't here.
 
-### Audited multiple smart contracts for DeFi protocols (links available on request)
-🛡️ Contributed to open-source tools and security libraries for Ethereum
+---
 
-### Languages
-- Solidity
-- Python
-- JavaScript
-- Bash
+## 🔧 What I work with
 
-## 📫 Get in Touch
+**Review** — Manual Solidity review, threat modelling, severity and impact rating, remediation review and re-audit sign-off, client-facing finding write-ups
 
-📧 Email: info.abhaypatel98@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/abhaypatell-014516172/
+**Exploits** — Foundry PoC development, forked-mainnet harnesses, invariant and property-based testing
 
-🙏Thanks for visiting my profile! Feel free to connect or reach out!
+**Vulnerability classes** — Reentrancy, broken access control, oracle manipulation, unchecked external calls, precision loss, proxy and storage collision, signature replay, MEV exposure
+
+**EVM** — Execution model, transaction lifecycle, gas and storage layout, proxy patterns (UUPS, Transparent)
+
+**Standards & protocols** — ERC-20/721/1155, multi-signature and wallet architecture, Layer-2 networks, Solana, Hyperledger Besu
+
+**Tools** — Foundry · Slither · Mythril · Hardhat · Remix · Tenderly · Etherscan tracing
+
+**Languages** — Solidity · Python · Bash
+
+---
+
+## 📬 Get in touch
+
+- Email — info.abhaypatel98@gmail.com
+- LinkedIn — [in/abhaypatel1-014516172](https://www.linkedin.com/in/abhaypatel1-014516172/)
+- X — [https://x.com/i_AbhayPatel]
+- Writing — [medium.com/@AbhayPatel98](https://medium.com/@AbhayPatel98)
+
+Open to smart contract audit and protocol security work. If you spot something wrong in one of my reports, open an issue — I'd rather be corrected in public.
